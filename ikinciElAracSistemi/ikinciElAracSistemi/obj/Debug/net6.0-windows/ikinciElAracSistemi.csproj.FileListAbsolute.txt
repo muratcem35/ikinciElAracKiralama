@@ -1,0 +1,17 @@
+C:\Users\kaya_\source\repos\ikinciElAracSistemi\ikinciElAracSistemi\bin\Debug\net6.0-windows\ikinciElAracSistemi.exe
+C:\Users\kaya_\source\repos\ikinciElAracSistemi\ikinciElAracSistemi\bin\Debug\net6.0-windows\ikinciElAracSistemi.deps.json
+C:\Users\kaya_\source\repos\ikinciElAracSistemi\ikinciElAracSistemi\bin\Debug\net6.0-windows\ikinciElAracSistemi.runtimeconfig.json
+C:\Users\kaya_\source\repos\ikinciElAracSistemi\ikinciElAracSistemi\bin\Debug\net6.0-windows\ikinciElAracSistemi.dll
+C:\Users\kaya_\source\repos\ikinciElAracSistemi\ikinciElAracSistemi\bin\Debug\net6.0-windows\ref\ikinciElAracSistemi.dll
+C:\Users\kaya_\source\repos\ikinciElAracSistemi\ikinciElAracSistemi\bin\Debug\net6.0-windows\ikinciElAracSistemi.pdb
+C:\Users\kaya_\source\repos\ikinciElAracSistemi\ikinciElAracSistemi\obj\Debug\net6.0-windows\ikinciElAracSistemi.csproj.AssemblyReference.cache
+C:\Users\kaya_\source\repos\ikinciElAracSistemi\ikinciElAracSistemi\obj\Debug\net6.0-windows\ikinciElAracSistemi.Form1.resources
+C:\Users\kaya_\source\repos\ikinciElAracSistemi\ikinciElAracSistemi\obj\Debug\net6.0-windows\ikinciElAracSistemi.csproj.GenerateResource.cache
+C:\Users\kaya_\source\repos\ikinciElAracSistemi\ikinciElAracSistemi\obj\Debug\net6.0-windows\ikinciElAracSistemi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaya_\source\repos\ikinciElAracSistemi\ikinciElAracSistemi\obj\Debug\net6.0-windows\ikinciElAracSistemi.AssemblyInfoInputs.cache
+C:\Users\kaya_\source\repos\ikinciElAracSistemi\ikinciElAracSistemi\obj\Debug\net6.0-windows\ikinciElAracSistemi.AssemblyInfo.cs
+C:\Users\kaya_\source\repos\ikinciElAracSistemi\ikinciElAracSistemi\obj\Debug\net6.0-windows\ikinciElAracSistemi.csproj.CoreCompileInputs.cache
+C:\Users\kaya_\source\repos\ikinciElAracSistemi\ikinciElAracSistemi\obj\Debug\net6.0-windows\ikinciElAracSistemi.dll
+C:\Users\kaya_\source\repos\ikinciElAracSistemi\ikinciElAracSistemi\obj\Debug\net6.0-windows\ref\ikinciElAracSistemi.dll
+C:\Users\kaya_\source\repos\ikinciElAracSistemi\ikinciElAracSistemi\obj\Debug\net6.0-windows\ikinciElAracSistemi.pdb
+C:\Users\kaya_\source\repos\ikinciElAracSistemi\ikinciElAracSistemi\obj\Debug\net6.0-windows\ikinciElAracSistemi.genruntimeconfig.cache
