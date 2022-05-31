@@ -8,6 +8,9 @@ namespace ikinciElAracSistemi
 {
     internal class musteri : uye, aracIslemleri, yorumYap
     {
+    
+        public int musteriId;
+        
         public string aracAra()
         {
             throw new NotImplementedException();
